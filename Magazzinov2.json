@@ -1,0 +1,27 @@
+[
+        {
+            "nome": "Mela",
+            "costo": 0.99,
+            "quantita": 50
+        },
+        {
+            "nome": "Pane",
+            "costo": 1.99,
+            "quantita": 30
+        },
+        {
+            "nome": "Latte",
+            "costo": 2.49,
+            "quantita": 20
+        },
+        {
+            "nome": "Pasta",
+            "costo": 0.79,
+            "quantita": 40
+        },
+        {
+            "nome": "Carne",
+            "costo": 9.99,
+            "quantita": 15
+        }
+]
